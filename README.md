@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey there, I'm Krishma 👾</h1>
-<h3 align="center">I'm an Undergrad coding enthusiast diving into animation realms <img src="https://tenor.com/view/code-encoding-typing-working-busy-gif-17808955" width="25px"></h3>
+<h3 align="center">I'm an Undergrad coding enthusiast currently diving into animation realms <img src="https://tenor.com/view/code-encoding-typing-working-busy-gif-17808955" width="25px"></h3>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
