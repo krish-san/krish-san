@@ -12,7 +12,7 @@
 <h2 align="left">Github Stats</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krish-san&theme=dark&custom_title=San's%20stats&hide_background=false&show_icons=true&locale=en" alt="krish-san" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish-san&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="krish-san" /> </p> 
-
+ 
 
 
 
